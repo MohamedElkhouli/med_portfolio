@@ -1,0 +1,8 @@
+.aboutMe{
+    transition: ease 1.5s;
+}
+.aboutMe:hover{
+    transform: scale(1.1);
+    border-radius: 5vh;
+    box-shadow: 2vh 2vh 2vh gray;
+}
